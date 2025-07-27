@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohit Dhawan
 
-<!--
-**UnickCarrer/UnickCarrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year BCA student from Kurukshetra University  
+🌐 Passionate about Web Development and building modern websites  
+💻 Currently learning Full-Stack MERN Development  
+🎮 I’ve built games like Break the Bricks & Color Match Memory  
+🧠 Focused on mastering JavaScript, React, and MongoDB  
+🚀 My goal: Work as a developer and build my own startup someday!
 
-Here are some ideas to get you started:
+## 📌 Projects
+- [🔗 Portfolio Website](https://unickcarrer.github.io/Portfolio-website/)
+- [🎮 Break the Bricks Game](https://unickcarrer.github.io/break-the-bricks/)
+- [🧠 Color Match Memory](https://unickcarrer.github.io/color-match-memory/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+- ✉ Email: officialdhawan411@gmail.com
+- 🌐 Portfolio: [View Site](https://unickcarrer.github.io/Portfolio-website/)
